@@ -1,5 +1,5 @@
 // Weather API integration service
-const OPENWEATHER_API_KEY = 'aecb2c3495db12bd54ea0e7aa6f8bce6'; // Free API key with limited requests
+const OPENWEATHER_API_KEY = 'write your openweather api key here '; // Free API key with limited requests
 
 class WeatherService {
   /**
