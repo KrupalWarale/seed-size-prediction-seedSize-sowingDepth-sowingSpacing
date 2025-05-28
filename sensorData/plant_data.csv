@@ -1,0 +1,2 @@
+timestamp,temperature,humidity,soil_moisture,motion_detected,pump_state
+2025-05-13 11:21:21,30.3,64.0,0,YES,ON

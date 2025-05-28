@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2025-05-13 11:21:21",
+    "temperature": 0,
+    "humidity": 0,
+    "soil_moisture": 0,
+    "motion_detected": "NO",
+    "pump_state": "OFF"
+  }
+]
