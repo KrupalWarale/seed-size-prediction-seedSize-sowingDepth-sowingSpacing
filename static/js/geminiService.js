@@ -1,5 +1,5 @@
 class GeminiService {
-    static API_KEY = 'AIzaSyD2hXQOicNPJfWl_6lzgWNrMYusCGgVcuY';
+    static API_KEY = 'write your gemini api key here';
     static API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
     
     /**
