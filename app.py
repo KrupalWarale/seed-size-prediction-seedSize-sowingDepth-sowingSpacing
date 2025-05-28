@@ -216,7 +216,7 @@ def weather_proxy():
         lon = request.args.get('lon', '72.8777')
         
         # Use the API key directly
-        api_key = 'a12e0a266a0a42176e057c4c02e30cec'
+        api_key = 'write your api key here'
         
         # If there's an API key available, try the live API first
         if api_key:
@@ -403,7 +403,7 @@ Format your response ONLY as a JSON array containing 5-7 crop names:
 """
         
         # Call Gemini API with a higher temperature setting for more varied responses
-        api_key = os.environ.get('GEMINI_API_KEY', 'AIzaSyD2hXQOicNPJfWl_6lzgWNrMYusCGgVcuY')
+        api_key = os.environ.get('GEMINI_API_KEY', 'write your api key here')
         if not api_key:
             return jsonify({"error": "Gemini API key not found"}), 400
             
